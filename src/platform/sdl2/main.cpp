@@ -3,6 +3,7 @@
 #include <sys/stat.h>
 #include <unistd.h>
 #include <pwd.h>
+#include <climits>
 
 #include <SDL2/SDL.h>
 
